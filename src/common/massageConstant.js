@@ -1,0 +1,12 @@
+module.exports.ALREADY_DATA_HERE = "This name already exists";
+module.exports.SOMETHING_WRONG = "Something went wrong!";
+module.exports.INVALID_DETAILS = "Invalid data";
+module.exports.SUCCESS = "Success";
+module.exports.CREATE_SUCCESS = "Created successfully";
+module.exports.UPDATE_SUCCESS = "Updated successfully";
+module.exports.DELETE_SUCCESS = "Deleted successfully";
+module.exports.EMAIL_ALREADY_REGISTERED = "This email is already registered";
+module.exports.USER_NOT_EXIST = "This user does not exist";
+module.exports.LOGIN_SUCCESS = "Login successfully";
+module.exports.LOGOUT_SUCCESS = "Logout successfully";
+module.exports.REGISTER_SUCCESS = "Registered successfully";
